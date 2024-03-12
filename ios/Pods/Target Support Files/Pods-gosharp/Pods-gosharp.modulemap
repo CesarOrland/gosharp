@@ -1,0 +1,6 @@
+module Pods_gosharp {
+  umbrella header "Pods-gosharp-umbrella.h"
+
+  export *
+  module * { export * }
+}
