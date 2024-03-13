@@ -1,11 +1,3 @@
-#Este un video corto de como funciona la App de acuerdo a las especificaciones que se pidieron.
-
-
-![Simulator Screenshot - iPhone 15 Pro - 2024-03-12 at 16 31 46](https://github.com/CesarOrland/gosharp/assets/109125609/281c2821-e1c3-4cb1-ac65-3136b3168d6c)
-
-
-
-
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
