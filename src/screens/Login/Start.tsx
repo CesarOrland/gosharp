@@ -31,7 +31,7 @@ const Start = () => {
               animation={!login ? 'fadeInRightBig' : 'fadeOutRightBig'}
               delay={500}
               duration={1500}>
-              Bienvenido a Smart Entry
+              Bienvenido a Go Sharp
             </Animatable.Text>
           </View>
           <View style={{flex: 1}} />
