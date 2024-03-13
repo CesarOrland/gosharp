@@ -4,8 +4,14 @@ import { createNativeStackNavigator } from '@react-navigation/native-stack';
 import Start from '../screens/Login/Start';
 import MyTabs from './MyTabs';
 
+export type RootStackParamList = {
+  Start: undefined;
+  MyTabs: undefined;
+  Home: undefined;
+};
+
 const Navigation = () => {
-    const Stack = createNativeStackNavigator();
+    const Stack = createNativeStackNavigator<RootStackParamList>();
   return (
     <Stack.Navigator>
     <Stack.Screen
